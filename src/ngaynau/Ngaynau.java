@@ -17,6 +17,7 @@ public class Ngaynau {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Aaa");
+        System.err.println("kkkkk");
     }
     
 }
