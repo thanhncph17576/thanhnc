@@ -18,6 +18,7 @@ public class Ngaynau {
         // TODO code application logic here
         System.out.println("Aaa");
         System.err.println("kkkkk");
+        System.out.println("ngaynau.Ngaynau.main()");
     }
     
 }
